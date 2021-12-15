@@ -158,7 +158,7 @@ figcaption {
   font-size: 22px;
   margin-left: 30;
   margin-right: 26em;
-  padding: 12px;
+  padding: 25px;
 }
 
 .texto-teste {
@@ -262,7 +262,9 @@ padding-inline-end: 30em;
 
 
 
-
+ p,h3 {
+ font-family: 'Open Sans', sans-serif;
+}
 
 
 

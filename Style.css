@@ -26,6 +26,7 @@
     font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
     background: #23232e;
     height: 8vh;
+    
   }
   
   main {
@@ -113,20 +114,48 @@
  .titulo-over{
    font-family:'Exo 2', sans-serif;
    text-align: center;
-   padding: 25px;
+   padding: 37px;
 
  }
 
 
-.fora-imagem p {
-  font-style: italic;
-  float: auto;
+
+.img-960 {
+  align-items: center;
+  justify-content: center;
+  height: auto;
+  display: flex;
 }
 
-.fora-imagem {
-  align-items: center;
-  padding: 17px;
-  justify-content: center;
-  display: flex;
+figcaption {
+  padding-left: 30em;
+  font-style: italic;
+
+
+}
+
+.texto-01 {
+  text-align: center;
+  font-family: 'lato',sans-serif;
+  padding: 27px;
+  font-size: 22px;
+  margin-left: auto;
+  margin-right: 25em;
+
   
+
+}
+
+.texto-02 {
+  text-align: left;
+  font-size: 17px;
+  margin-left: auto;
+    margin-right: auto;
+    width: 56em;
+    font-family: 'Lato', sans-serif;
+    padding: 14px;
+    
+    
+ 
+ 
 }
